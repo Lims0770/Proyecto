@@ -30,10 +30,4 @@ Puerto 22: Cerrado
 
 Este programa solo verifica si un puerto está abierto o cerrado. No realiza ninguna otra prueba.
 Se recomienda usar este programa con fines educativos o de investigación.
-## Índice
-Descripción: #descripcion
-Uso: #uso
-Opciones: #opciones
-Ejemplo: #ejemplo
-Salida: #salida
-Nota: #nota
+
